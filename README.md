@@ -1,2 +1,2 @@
 ## Demo Video 😁 
-<video src="https://raw.githubusercontent.com/lakshya-sinha/chat-overly-streaming/main/public/demo.mp4" controls width="700"></video>
+[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/lakshya-sinha/chat-overly-streaming/blob/main/public/demo.mp4)<video src="https://raw.githubusercontent.com/lakshya-sinha/chat-overly-streaming/main/public/demo.mp4" controls width="700"></video>
